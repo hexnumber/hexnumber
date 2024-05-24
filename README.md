@@ -22,7 +22,7 @@ Ein einfaches Tic-Tac-Toe Spiel in C++, das sowohl gegen einen menschlichen Gegn
 ## Kontakt
 
 - **E-Mail:** Julianseipp122@outlook.de
-- **Twitter:** @Julian4b2(https://twitter.com/Julian4b2)
+- **Twitter:** [@Julian4B2](https://twitter.com/Julian4b2)
 
 ## Hobbys
 
