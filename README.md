@@ -33,6 +33,6 @@ Ein einfaches Tic-Tac-Toe Spiel in C++, das sowohl gegen einen menschlichen Gegn
 
 ## Ziele
 
-Ich möchte meine Programmierfähigkeiten verbessern und in Zukunft an größeren Projekten und Wettbewerben teilnehmen. Mein Traum ist es, eines Tages Softwareentwickler zu werden und innovative Lösungen zu entwickeln.
+Ich möchte meine Programmierfähigkeiten verbessern und in Zukunft an größeren Projekten und Wettbewerben teilnehmen und natürlich mein Abitur abschließen. Mein Traum ist es, eines Tages Softwareentwickler zu werden.
 
 Vielen Dank, dass du mein Profil besucht hast! Schaue dir gerne meine Projekte an und zögere nicht, mich zu kontaktieren.
