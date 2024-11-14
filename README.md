@@ -17,7 +17,7 @@ Ein einfaches Tic-Tac-Toe Spiel in C++, das sowohl gegen einen menschlichen Gegn
 ## Bildung
 
 - **Schule:** Ludwig-Geißler-Schule
-- **Jahrgang:** 12 Klasse Gymnasium
+- **Jahrgang:** 13 Klasse Gymnasium
 
 ## Kontakt
 
