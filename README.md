@@ -2,7 +2,7 @@
 
 ## Über mich
 
-Ich bin Schüler und hobbymäßiger Programmierer. Ich liebe es, neue Technologien zu lernen. In meiner Freizeit beschäftige ich mich gerne mit Informatik und arbeite an verschiedenen Coding-Projekten.
+Ich bin dualer Student und arbeite bei BMW. Ich liebe es, neue Technologien zu lernen. In meiner Freizeit beschäftige ich mich gerne mit Informatik und arbeite an verschiedenen Coding-Projekten.
 
 ## Projekte
 
@@ -11,13 +11,8 @@ Ein einfaches Tic-Tac-Toe Spiel in C++, das sowohl gegen einen menschlichen Gegn
 
 ## Fähigkeiten
 
-- **Programmiersprachen:** C++
+- **Programmiersprachen:** C++, Java, Python
 - **Tools und Technologien:** Git, GitHub, VS Code
-
-## Bildung
-
-- **Schule:** Ludwig-Geißler-Schule
-- **Jahrgang:** 13 Klasse Gymnasium
 
 ## Kontakt
 
@@ -33,6 +28,6 @@ Ein einfaches Tic-Tac-Toe Spiel in C++, das sowohl gegen einen menschlichen Gegn
 
 ## Ziele
 
-Ich möchte meine Programmierfähigkeiten verbessern und in Zukunft an größeren Projekten und Wettbewerben teilnehmen und natürlich mein Abitur abschließen. Mein Traum ist es, eines Tages Softwareentwickler zu werden.
+Ich möchte meine Programmierfähigkeiten verbessern und in Zukunft an größeren Projekten und Wettbewerben teilnehmen und natürlich mein duales Studium abschließen. Mein Traum ist es, eines Tages Softwareentwickler zu werden.
 
 Vielen Dank, dass du mein Profil besucht hast! Schaue dir gerne meine Projekte an und zögere nicht, mich zu kontaktieren.
