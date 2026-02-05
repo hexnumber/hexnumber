@@ -1,4 +1,4 @@
-# Hallo, ich bin Julian / Hexnumber! 👋
+# Hallo, ich bin Julian! 👋
 
 ## Über mich
 
@@ -16,7 +16,6 @@ Ein einfaches Tic-Tac-Toe Spiel in C++, das sowohl gegen einen menschlichen Gegn
 
 ## Kontakt
 
-- **E-Mail:** Julianseipp122@outlook.de
 - **Twitter:** [@Julian4B2](https://twitter.com/Julian4b2)
 
 ## Hobbys
