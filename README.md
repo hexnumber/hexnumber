@@ -12,7 +12,7 @@ Ein einfaches Tic-Tac-Toe Spiel in C++, das sowohl gegen einen menschlichen Gegn
 ## Fähigkeiten
 
 - **Programmiersprachen:** C++, Java, Python
-- **Tools und Technologien:** Git, GitHub, VS Code
+- **Tools und Technologien:** Git, GitHub, VS Code, Bazel, CMake
 
 ## Kontakt
 
